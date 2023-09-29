@@ -1,0 +1,15 @@
+2023/09/22-09:18:14.393 8884 Reusing MANIFEST C:\Users\Miguel\Documents\rotinazap\teste1\tokens\teste\Default\Local Storage\leveldb/MANIFEST-000001
+2023/09/22-09:18:14.394 8884 Recovering log #14
+2023/09/22-09:18:14.395 8884 Reusing old log C:\Users\Miguel\Documents\rotinazap\teste1\tokens\teste\Default\Local Storage\leveldb/000014.log 
+2023/09/22-09:20:16.809 8a98 Level-0 table #18: started
+2023/09/22-09:20:16.812 8a98 Level-0 table #18: 22787 bytes OK
+2023/09/22-09:20:16.813 8a98 Delete type=0 #14
+2023/09/22-09:20:16.814 8a98 Compacting 4@0 + 1@1 files
+2023/09/22-09:20:16.816 8a98 Generated table #19@0: 57 keys, 17093 bytes
+2023/09/22-09:20:16.816 8a98 Compacted 4@0 + 1@1 files => 17093 bytes
+2023/09/22-09:20:16.818 8a98 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/22-09:20:16.818 8a98 Delete type=2 #8
+2023/09/22-09:20:16.818 8a98 Delete type=2 #10
+2023/09/22-09:20:16.818 8a98 Delete type=2 #12
+2023/09/22-09:20:16.819 8a98 Delete type=2 #15
+2023/09/22-09:20:16.819 8a98 Delete type=2 #18

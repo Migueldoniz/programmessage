@@ -1,0 +1,6 @@
+2023/09/22-09:22:49.670 8ae0 Reusing MANIFEST C:\Users\Miguel\Documents\rotinazap\teste1\tokens\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/09/22-09:22:49.671 8ae0 Recovering log #29
+2023/09/22-09:22:49.671 8ae0 Reusing old log C:\Users\Miguel\Documents\rotinazap\teste1\tokens\session\Default\Local Storage\leveldb/000029.log 
+2023/09/22-09:26:52.131 5870 Level-0 table #33: started
+2023/09/22-09:26:52.133 5870 Level-0 table #33: 35471 bytes OK
+2023/09/22-09:26:52.134 5870 Delete type=0 #29
